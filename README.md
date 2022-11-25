@@ -12,9 +12,9 @@ A 3D styled Tetris inspired by Tetris99 on Switch. Includes Super rotation syste
 - Left: A, Left Arrow
 - Right: D, Right Arrow
 - Fast Down: S, Down Arrow
-- Slam: Space
-- Rotate Clockwise: 
-- Rotate Anti-Clockwise: 
+- Slam: W, Up Arrow
+- Rotate Clockwise: E
+- Rotate Anti-Clockwise: Q
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/53892067/203904628-70887c07-4510-4adc-88cd-6b5ffe157f8a.png)
